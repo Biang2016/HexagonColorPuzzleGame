@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 5d5758b2aeae9614283ccc1b7363b1b5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BlueFort0
+    100002: BlueFort1
+    100004: BlueFort2
+    100006: BlueFort3
+    100008: BlueHQ0
+    100010: BlueHQ1
+    100012: BlueHQ2
+    100014: BlueHQ3
+    100016: EnemyFort0
+    100018: EnemyFort1
+    100020: EnemyFort2
+    100022: EnemyFort3
+    100024: EnemyHQ0
+    100026: EnemyHQ1
+    100028: EnemyHQ2
+    100030: EnemyHQ3
+    100032: Jungle
+    100034: //RootNode
+    100036: NeutralFort
+    100038: NormalGrid
+    100040: Plane001
+    100042: Plane002
+    100044: Plane003
+    100046: River
+    400000: BlueFort0
+    400002: BlueFort1
+    400004: BlueFort2
+    400006: BlueFort3
+    400008: BlueHQ0
+    400010: BlueHQ1
+    400012: BlueHQ2
+    400014: BlueHQ3
+    400016: EnemyFort0
+    400018: EnemyFort1
+    400020: EnemyFort2
+    400022: EnemyFort3
+    400024: EnemyHQ0
+    400026: EnemyHQ1
+    400028: EnemyHQ2
+    400030: EnemyHQ3
+    400032: Jungle
+    400034: //RootNode
+    400036: NeutralFort
+    400038: NormalGrid
+    400040: Plane001
+    400042: Plane002
+    400044: Plane003
+    400046: River
+    2100000: 01 - Default
+    2100002: 02 - Default
+    2100004: BlueHQ0
+    2100006: 04 - Default
+    2100008: map1
+    2100010: map2
+    2100012: map3
+    2300000: BlueFort0
+    2300002: BlueFort1
+    2300004: BlueFort2
+    2300006: BlueFort3
+    2300008: BlueHQ0
+    2300010: BlueHQ1
+    2300012: BlueHQ2
+    2300014: BlueHQ3
+    2300016: EnemyFort0
+    2300018: EnemyFort1
+    2300020: EnemyFort2
+    2300022: EnemyFort3
+    2300024: EnemyHQ0
+    2300026: EnemyHQ1
+    2300028: EnemyHQ2
+    2300030: EnemyHQ3
+    2300032: Jungle
+    2300034: NeutralFort
+    2300036: NormalGrid
+    2300038: Plane001
+    2300040: Plane002
+    2300042: Plane003
+    2300044: River
+    3300000: BlueFort0
+    3300002: BlueFort1
+    3300004: BlueFort2
+    3300006: BlueFort3
+    3300008: BlueHQ0
+    3300010: BlueHQ1
+    3300012: BlueHQ2
+    3300014: BlueHQ3
+    3300016: EnemyFort0
+    3300018: EnemyFort1
+    3300020: EnemyFort2
+    3300022: EnemyFort3
+    3300024: EnemyHQ0
+    3300026: EnemyHQ1
+    3300028: EnemyHQ2
+    3300030: EnemyHQ3
+    3300032: Jungle
+    3300034: NeutralFort
+    3300036: NormalGrid
+    3300038: Plane001
+    3300040: Plane002
+    3300042: Plane003
+    3300044: River
+    4300000: NormalGrid
+    4300002: Jungle
+    4300004: BlueHQ0
+    4300006: Plane001
+    4300008: BlueHQ1
+    4300010: Plane002
+    4300012: BlueHQ2
+    4300014: Plane003
+    4300016: BlueHQ3
+    4300018: BlueFort0
+    4300020: BlueFort1
+    4300022: BlueFort2
+    4300024: BlueFort3
+    4300026: EnemyFort3
+    4300028: EnemyFort2
+    4300030: EnemyFort1
+    4300032: EnemyFort0
+    4300034: River
+    4300036: NeutralFort
+    4300038: EnemyHQ3
+    4300040: EnemyHQ2
+    4300042: EnemyHQ1
+    4300044: EnemyHQ0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
