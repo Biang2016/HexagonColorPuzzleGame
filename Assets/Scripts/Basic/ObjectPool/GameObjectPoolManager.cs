@@ -12,7 +12,10 @@ public class GameObjectPoolManager : MonoSingleton<GameObjectPoolManager>
         NormalGrid,
         Jungle,
         HQ,
-        Tile
+        Tile,
+        Hexagon,
+        HexagonBorder,
+        Map,
     }
 
     public Dictionary<PrefabNames, int> PoolConfigs = new Dictionary<PrefabNames, int>
@@ -21,6 +24,9 @@ public class GameObjectPoolManager : MonoSingleton<GameObjectPoolManager>
         {PrefabNames.Jungle, 3},
         {PrefabNames.HQ, 3},
         {PrefabNames.Tile, 3},
+        {PrefabNames.Hexagon, 3},
+        {PrefabNames.HexagonBorder, 3},
+        {PrefabNames.Map, 1},
     };
 
     public Dictionary<PrefabNames, int> PoolWarmUpDict = new Dictionary<PrefabNames, int>

@@ -1,24 +1,39 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class MapGrid : PoolObject
 {
-    public MapGridColorTypes MapGridColorType = MapGridColorTypes.Red;
-    public MapGridTypes MapGridType = MapGridTypes.NormalGrid;
-    public int ID = -1;
     [SerializeField] private MeshRenderer MeshRenderer;
+    [SerializeField] private SpriteRenderer SelectedBorder;
 
-    public void Init(MapGridColorTypes colorType, MapGridTypes mapGridType, float radius, Vector3 position, string name, int id)
+    public MapGridInfo MapGridInfo;
+
+    void Awake()
     {
-        Color c = GameManager.Instance.MapSettings.MapGridColors[(int) colorType];
+        if (SelectedBorder) SelectedBorder.gameObject.SetActive(false);
+    }
+
+    public void Init(MapGridInfo mapGridInfo, float radius)
+    {
+        MapGridInfo = mapGridInfo;
+        Color c = GameManager.Instance.MapSettings.MapGridColors[(int) mapGridInfo.MapGridColorType];
         Material tempMaterial = new Material(MeshRenderer.sharedMaterial);
         tempMaterial.color = c;
         MeshRenderer.sharedMaterial = tempMaterial;
-        MapGridColorType = colorType;
-        MapGridType = mapGridType;
         transform.localScale = Vector3.one * radius;
-        transform.position = position;
-        this.name = name;
-        ID = id;
+    }
+
+    private bool isSelected = false;
+
+    public bool IsSelected
+    {
+        get { return isSelected; }
+        set
+        {
+            isSelected = value;
+            if (SelectedBorder)
+            {
+                SelectedBorder.gameObject.SetActive(value);
+            }
+        }
     }
 }

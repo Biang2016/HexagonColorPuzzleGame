@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MapGrids
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - MapBoard
   - 
   - 
   - 
@@ -40,4 +41,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: MapGrid
+    uniqueID: 338021179
+    locked: 0
+  - name: HexagonBorder
+    uniqueID: 373161061
+    locked: 0
+  - name: abc
+    uniqueID: 3871753617
     locked: 0

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AllLevels>
+  <LevelInfo LevelID="0" MapRounds="2" OptimumStep="3" LevelName="Move">
+    <LevelStartMapInfo>
+      <MapGrid HexPosX="0" HexPosY="-1" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="-1" HexPosY="1" MapGridColorType="Blue" MapGridType="HQ" />
+      <MapGrid HexPosX="1" HexPosY="0" MapGridColorType="Red" MapGridType="HQ" />
+    </LevelStartMapInfo>
+    <LevelGoalMapInfo>
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Blue" MapGridType="HQ" />
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Red" MapGridType="HQ" />
+    </LevelGoalMapInfo>
+  </LevelInfo>
+  <LevelInfo LevelID="1" MapRounds="2" OptimumStep="3" LevelName="Drag Paint">
+    <LevelStartMapInfo>
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Blue" MapGridType="HQ" />
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Red" MapGridType="HQ" />
+    </LevelStartMapInfo>
+    <LevelGoalMapInfo>
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Blue" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="2" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="0" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="-1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="-2" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="-1" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-2" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Red" MapGridType="HQ" />
+    </LevelGoalMapInfo>
+  </LevelInfo>
+  <LevelInfo LevelID="2" MapRounds="2" OptimumStep="2" LevelName="Mixed">
+    <LevelStartMapInfo>
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Red" MapGridType="HQ" />
+    </LevelStartMapInfo>
+    <LevelGoalMapInfo>
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="-1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="0" MapGridColorType="Orange" MapGridType="Jungle" />
+      <MapGrid HexPosX="0" HexPosY="1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="2" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-2" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+    </LevelGoalMapInfo>
+  </LevelInfo>
+  <LevelInfo LevelID="3" MapRounds="2" OptimumStep="3" LevelName="Locked">
+    <LevelStartMapInfo>
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Blue" MapGridType="HQ" />
+    </LevelStartMapInfo>
+    <LevelGoalMapInfo>
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Blue" MapGridType="HQ" />
+      <MapGrid HexPosX="-1" HexPosY="1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="0" MapGridColorType="Green" MapGridType="Jungle" />
+      <MapGrid HexPosX="1" HexPosY="-1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="-2" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-2" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="-1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="2" MapGridColorType="Red" MapGridType="NormalGrid" />
+    </LevelGoalMapInfo>
+  </LevelInfo>
+  <LevelInfo LevelID="4" MapRounds="2" OptimumStep="6" LevelName="Move Paint">
+    <LevelStartMapInfo>
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Blue" MapGridType="HQ" />
+    </LevelStartMapInfo>
+    <LevelGoalMapInfo>
+      <MapGrid HexPosX="1" HexPosY="0" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="-1" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="-1" HexPosY="1" MapGridColorType="Blue" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="0" MapGridColorType="Purple" MapGridType="Jungle" />
+      <MapGrid HexPosX="0" HexPosY="1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="2" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="-1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="-2" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-2" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+    </LevelGoalMapInfo>
+  </LevelInfo>
+  <LevelInfo LevelID="5" MapRounds="2" OptimumStep="12" LevelName="Complex">
+    <LevelStartMapInfo>
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Blue" MapGridType="HQ" />
+    </LevelStartMapInfo>
+    <LevelGoalMapInfo>
+      <MapGrid HexPosX="1" HexPosY="0" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="-1" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="-1" HexPosY="1" MapGridColorType="Blue" MapGridType="HQ" />
+      <MapGrid HexPosX="-1" HexPosY="-1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-2" HexPosY="0" MapGridColorType="Purple" MapGridType="Jungle" />
+      <MapGrid HexPosX="-2" HexPosY="1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="1" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="2" MapGridColorType="Green" MapGridType="Jungle" />
+      <MapGrid HexPosX="-1" HexPosY="2" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="-2" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="-2" MapGridColorType="Orange" MapGridType="Jungle" />
+      <MapGrid HexPosX="2" HexPosY="-1" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="0" MapGridColorType="Orange" MapGridType="Jungle" />
+      <MapGrid HexPosX="0" HexPosY="1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="-1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+    </LevelGoalMapInfo>
+  </LevelInfo>
+  <LevelInfo LevelID="6" MapRounds="2" OptimumStep="6" LevelName="Parallel">
+    <LevelStartMapInfo>
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="0" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="1" MapGridColorType="Blue" MapGridType="HQ" />
+    </LevelStartMapInfo>
+    <LevelGoalMapInfo>
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="0" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="1" MapGridColorType="Blue" MapGridType="HQ" />
+      <MapGrid HexPosX="-1" HexPosY="-1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="0" MapGridColorType="Purple" MapGridType="Jungle" />
+      <MapGrid HexPosX="0" HexPosY="0" MapGridColorType="Orange" MapGridType="Jungle" />
+      <MapGrid HexPosX="1" HexPosY="0" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="-1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="-2" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="1" MapGridColorType="Green" MapGridType="Jungle" />
+      <MapGrid HexPosX="0" HexPosY="1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="-1" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="-2" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="2" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="2" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+    </LevelGoalMapInfo>
+  </LevelInfo>
+  <LevelInfo LevelID="7" MapRounds="2" OptimumStep="9" LevelName="One Step">
+    <LevelStartMapInfo>
+      <MapGrid HexPosX="-1" HexPosY="2" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Blue" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="1" MapGridColorType="Yellow" MapGridType="HQ" />
+    </LevelStartMapInfo>
+    <LevelGoalMapInfo>
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Blue" MapGridType="HQ" />
+      <MapGrid HexPosX="1" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="0" MapGridColorType="Orange" MapGridType="Jungle" />
+      <MapGrid HexPosX="0" HexPosY="-1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-2" HexPosY="1" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="1" MapGridColorType="Orange" MapGridType="Jungle" />
+      <MapGrid HexPosX="1" HexPosY="1" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="2" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="-1" HexPosY="1" MapGridColorType="Orange" MapGridType="Jungle" />
+      <MapGrid HexPosX="-1" HexPosY="0" MapGridColorType="Orange" MapGridType="Jungle" />
+      <MapGrid HexPosX="-1" HexPosY="-1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="-1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="-2" MapGridColorType="Blue" MapGridType="NormalGrid" />
+    </LevelGoalMapInfo>
+  </LevelInfo>
+  <LevelInfo LevelID="8" MapRounds="3" OptimumStep="13" LevelName="Fight">
+    <LevelStartMapInfo>
+      <MapGrid HexPosX="-3" HexPosY="0" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="-3" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="1" HexPosY="1" MapGridColorType="Blue" MapGridType="HQ" />
+    </LevelStartMapInfo>
+    <LevelGoalMapInfo>
+      <MapGrid HexPosX="-1" HexPosY="0" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="0" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="3" HexPosY="0" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="-3" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="3" HexPosY="-3" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-3" HexPosY="1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-3" HexPosY="3" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="-1" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="0" MapGridColorType="Orange" MapGridType="Jungle" />
+      <MapGrid HexPosX="0" HexPosY="1" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="3" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Purple" MapGridType="Jungle" />
+      <MapGrid HexPosX="2" HexPosY="-1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="-3" MapGridColorType="Green" MapGridType="Jungle" />
+      <MapGrid HexPosX="0" HexPosY="2" MapGridColorType="Green" MapGridType="Jungle" />
+      <MapGrid HexPosX="-1" HexPosY="2" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-3" HexPosY="2" MapGridColorType="Purple" MapGridType="Jungle" />
+      <MapGrid HexPosX="1" HexPosY="1" MapGridColorType="Blue" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="-1" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="-1" HexPosY="-2" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="-2" HexPosY="0" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-2" HexPosY="1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Purple" MapGridType="Jungle" />
+      <MapGrid HexPosX="-2" HexPosY="3" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="-2" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="-2" MapGridColorType="Green" MapGridType="Jungle" />
+      <MapGrid HexPosX="3" HexPosY="-2" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+    </LevelGoalMapInfo>
+  </LevelInfo>
+  <LevelInfo LevelID="9" MapRounds="3" OptimumStep="17" LevelName="Tangle">
+    <LevelStartMapInfo>
+      <MapGrid HexPosX="0" HexPosY="-1" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="-1" HexPosY="1" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="1" HexPosY="0" MapGridColorType="Blue" MapGridType="HQ" />
+    </LevelStartMapInfo>
+    <LevelGoalMapInfo>
+      <MapGrid HexPosX="0" HexPosY="-1" MapGridColorType="Orange" MapGridType="Jungle" />
+      <MapGrid HexPosX="1" HexPosY="-2" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="-3" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="0" MapGridColorType="Green" MapGridType="Jungle" />
+      <MapGrid HexPosX="2" HexPosY="-1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="3" HexPosY="-2" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="0" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="-1" HexPosY="1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-3" HexPosY="3" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-2" HexPosY="0" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-3" HexPosY="0" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="2" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="3" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="-1" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="0" HexPosY="-2" MapGridColorType="Green" MapGridType="Jungle" />
+      <MapGrid HexPosX="0" HexPosY="-3" MapGridColorType="Green" MapGridType="Jungle" />
+      <MapGrid HexPosX="2" HexPosY="0" MapGridColorType="Green" MapGridType="Jungle" />
+      <MapGrid HexPosX="3" HexPosY="0" MapGridColorType="Green" MapGridType="Jungle" />
+      <MapGrid HexPosX="0" HexPosY="1" MapGridColorType="Blue" MapGridType="HQ" />
+    </LevelGoalMapInfo>
+  </LevelInfo>
+  <LevelInfo LevelID="10" MapRounds="3" OptimumStep="18" LevelName="Migrate">
+    <LevelStartMapInfo>
+      <MapGrid HexPosX="-3" HexPosY="3" MapGridColorType="Blue" MapGridType="HQ" />
+      <MapGrid HexPosX="-3" HexPosY="1" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="-1" HexPosY="3" MapGridColorType="Red" MapGridType="HQ" />
+    </LevelStartMapInfo>
+    <LevelGoalMapInfo>
+      <MapGrid HexPosX="-3" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="3" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="1" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="0" HexPosY="0" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="-2" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="3" HexPosY="-3" MapGridColorType="Blue" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="-2" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="2" HexPosY="1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="-2" MapGridColorType="Yellow" MapGridType="HQ" />
+      <MapGrid HexPosX="2" HexPosY="-1" MapGridColorType="Red" MapGridType="HQ" />
+      <MapGrid HexPosX="1" HexPosY="-1" MapGridColorType="Green" MapGridType="Jungle" />
+      <MapGrid HexPosX="1" HexPosY="0" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="1" HexPosY="1" MapGridColorType="Orange" MapGridType="Jungle" />
+      <MapGrid HexPosX="1" HexPosY="2" MapGridColorType="Yellow" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-1" HexPosY="-1" MapGridColorType="Orange" MapGridType="Jungle" />
+      <MapGrid HexPosX="-2" HexPosY="-1" MapGridColorType="Red" MapGridType="NormalGrid" />
+      <MapGrid HexPosX="-2" HexPosY="2" MapGridColorType="Blue" MapGridType="HQ" />
+    </LevelGoalMapInfo>
+  </LevelInfo>
+</AllLevels>

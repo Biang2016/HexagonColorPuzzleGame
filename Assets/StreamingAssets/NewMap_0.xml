@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<MapGrids>
-  <MapGrid id="0" PositionX="16.6667" PositionY="0.0000" PositionZ="28.8675" MapGridType="NormalGrid" MapGridColorType="Red" />
-  <MapGrid id="1" PositionX="0.0000" PositionY="0.0000" PositionZ="38.4900" MapGridType="Jungle" MapGridColorType="Red" />
-  <MapGrid id="2" PositionX="33.3333" PositionY="0.0000" PositionZ="0.0000" MapGridType="Jungle" MapGridColorType="Yellow" />
-  <MapGrid id="3" PositionX="0.0000" PositionY="0.0000" PositionZ="0.0000" MapGridType="Tile" MapGridColorType="Yellow" />
-  <MapGrid id="4" PositionX="-16.6667" PositionY="0.0000" PositionZ="28.8675" MapGridType="HQ" MapGridColorType="Yellow" />
-  <MapGrid id="5" PositionX="33.3333" PositionY="0.0000" PositionZ="38.4900" MapGridType="HQ" MapGridColorType="Orange" />
-</MapGrids>
